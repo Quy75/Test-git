@@ -1,3 +1,7 @@
 function eat() {
     
 }
+
+function sleep() {
+    
+}
